@@ -15,7 +15,8 @@ body {
 
 .navbar {
     background-color:black;
-    max-width:auto ;    
+    max-width:auto ; 
+    padding: 15px 0;
 }
 .titulo{
     text-align: center;
@@ -39,6 +40,7 @@ body {
     background-color: #000000;
     color:#ffffff;
     font-size: 18px;
+    padding:20px 0;
 }
 
 .github, .linkedin, .correo, .curriculum, .youtube{
@@ -47,8 +49,8 @@ body {
 }
 
 form {
-    padding-top: 50px; ;
-    padding-bottom:50px ;
+    padding-top: 78px; ;
+    padding-bottom:80px ;
     margin-left:12%;
     margin-right:12%;
 }
