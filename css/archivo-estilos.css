@@ -30,6 +30,10 @@ body {
     border-radius:150px;    
 }
 
+b {
+    color: black;
+}
+
 .centrar-contenido {
     text-align:center;
     display:block;
